@@ -1,62 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4776E6,8E54E9&height=250&section=header&text=Adarsh%20Aher&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descAlignY=61&descAlign=62" alt="Header Banner" width="100%" />
+  <img src="https://media.tenor.com/4J1D1Q7x9-EAAAAC/zenitsu-thunder.gif" width="100%" alt="Zenitsu Thunder Breathing" />
 </div>
 
-<h3 align="center">Crafting Intelligent Systems & Next-Gen Languages</h3>
+<h1 align="center">⚡ Adarsh Aher ⚡</h1>
+<h3 align="center">AI & ML Engineer | Thunder Breathing: First Form - Code and Flash!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-aher-a311a737b/">
+    <img src="https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adarsh-aher-a311a737b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/yellow.png" width="100%" height="3" />
 </div>
-
-<br/>
 
 <table width="100%" style="border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Profile Overview</h3>
-      <p>I am a passionate AI & ML Engineer focused on solving real-world problems through data, algorithms, and thoughtful software design.</p>
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech in AI & ML @ Sandip University</li>
-        <li>💼 <b>Experience:</b> Intern @ Persevex (ML & Software Dev)</li>
-        <li>🌟 <b>Leadership:</b> Campus Ambassador @ Paytm</li>
-        <li>🎯 <b>Philosophy:</b> <i>Learning → Building → Failing → Improving → Repeating.</i></li>
-      </ul>
+    <td width="55%" valign="top">
+      <h3>⚔️ Core System</h3>
+      <br>
+      • 🎓 <b>Education:</b> Pursuing B.Tech in AI & ML @ Sandip University<br>
+      • 💼 <b>Experience:</b> Intern @ Persevex (Software Dev & ML)<br>
+      • 🌟 <b>Leadership:</b> Campus Ambassador @ Paytm<br>
+      • 🧠 <b>Focus:</b> Machine Learning, Deep Learning, Generative AI<br>
+      • ⚡ <b>Algorithm:</b> <code>Learning → Building → Failing → Improving → Repeating</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Project: Vernacular</h3>
-      <p>Co-creating <b>Vernacular</b>, a new interpreted, dynamically typed programming language with my friend Kashish.</p>
-      <ul>
-        <li><b>Architecture:</b> Built around an <i>actor-first, message-driven</i> paradigm rather than a traditional function-first approach.</li>
-        <li><b>Goal:</b> Exploring more expressive and flexible execution models.</li>
-        <li><b>Status:</b> Currently in the final testing phase and close to launch!</li>
-      </ul>
+    <td width="45%" valign="top">
+      <h3>⚡ Project: Vernacular</h3>
+      <br>
+      Co-creating <b>Vernacular</b> with my friend Kashish.<br>
+      <br>
+      • <b>Paradigm:</b> Actor-first, message-driven (not function-first).<br>
+      • <b>Type:</b> Interpreted, dynamically typed.<br>
+      • <b>Status:</b> Final testing phase, striking very close to launch!<br>
+      <br>
+      <i>"A different way of thinking about programming."</i>
     </td>
   </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/yellow.png" width="100%" height="3" />
+</div>
 
-<h3 align="center">🛠️ Technologies & Tools</h3>
+<h3 align="center">🛠️ Tech Arsenal (Nichirin Blades)</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,dart,html,css,tensorflow,scikitlearn,github,vscode,git,linux&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,java,ts,dart,html,css,tensorflow,scikitlearn,github,vscode,git,linux&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
-<br/>
+<h3 align="center">🌩️ Battle Stats</h3>
 
-<h3 align="center">📊 GitHub Metrics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshh025&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshh025&theme=transparent&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshh025&show_icons=true&title_color=f6d365&text_color=ffffff&icon_color=f6d365&bg_color=0D1117&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshh025&theme=dark&hide_border=true&title_color=f6d365&text_color=ffffff&icon_color=f6d365&sideNums=f6d365&sideLabels=ffffff&ring=f6d365&fire=f6d365&currStreakLabel=ffffff&currStreakNum=f6d365" alt="Streak" />
 </div>
 
 <details>
-  <summary align="center"><b>View Top Languages</b></summary>
+  <summary align="center"><b>✨ Top Breathing Forms (Languages)</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshh025&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshh025&layout=compact&title_color=f6d365&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" />
   </div>
 </details>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/yellow.png" width="100%" height="3" />
+</div>
+
+<div align="center">
+  <br/>
+  <i>"I’ve only mastered one form... but I’ve honed it to the ultimate limit!" – Zenitsu Agatsuma</i>
+</div>
