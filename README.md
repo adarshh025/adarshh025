@@ -1,88 +1,59 @@
 <div align="center">
 
-# ✧･ﾟ: *✧･ﾟ:* Ｗｅｌｃｏｍｅ ｔｏ ｍｙ Ｔｅｒｍｉｎａｌ *:･ﾟ✧*:･ﾟ✧
+# Adarsh Aher 
+**AI & ML Engineer | Developer | Language Designer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E_++Hi,+I'm+Adarsh+Aher+(%E2%9C%A7%CF%89%E2%9C%A7);%3E_++AI+%26+ML+Engineer;%3E_++Language+Creator+(Vernacular);%3E_++Learning+%E2%86%92+Building+%E2%86%92+Failing+%E2%86%92+Repeating" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adarsh-aher-a311a737b/)
 
-*Minimalist by design. Hacker by nature. Pookie at heart. 👾🎀*
+*Learning → Building → Failing → Improving → Repeating.*
 
 ---
 
 </div>
 
-### 🗂️ `~/about-me` (Notion_View)
-> **Current Status:** Pursuing B.Tech in **AI & ML** at Sandip University 🎓 | Interning @ **Persevex** 🚀 | Campus Ambassador @ **Paytm** 💳  
-> **Mission:** Moving beyond certificates to build things that solve meaningful problems. 
+## 👤 About Me
 
-```bash
-$ cat mindset.txt
-Loading...
-[████████████████████] 100%
-"Every course completed is not the finish line — it’s another tool added to the toolbox."
-```
+Currently pursuing a Bachelor's in **Artificial Intelligence & Machine Learning** at Sandip University, while interning at **Persevex** to gain hands-on industry experience. My focus is on moving beyond certificates to build practical, real-world solutions. 
 
----
+*   💼 **Experience:** Intern at Persevex (Machine Learning) | Campus Ambassador at Paytm
+*   🎓 **Education:** B.Tech in AI & ML, Sandip University
+*   🎯 **Goal:** Deepening expertise in AI, ML, Deep Learning, and Generative AI to solve meaningful problems.
 
-### ⚡ `~/projects/vernacular` (Classified_Build)
-> Designing our own programming language from scratch alongside friend & co-builder Kashish.
+## 🚀 Featured Projects
 
-```yaml
-project: "Vernacular"
-status: "Final Testing Phase (Pre-Launch)"
-paradigm: "Actor-first, Message-driven"
-runtime: "Interpreted & Dynamically Typed"
-philosophy: "A different way of thinking about programming."
-```
+### 🔹 Vernacular *(In Final Testing Phase)*
+A custom programming language developed from the ground up alongside [Kashish](https://www.linkedin.com/in/kashish-%E2%80%8E-072218404/).
+*   **Architecture:** Interpreted, dynamically typed, and actor-first.
+*   **Concept:** Departs from the traditional function-first approach. Built around actors and message-driven structures to make code more expressive and flexible.
+*   **Current Status:** Final testing. Full release, documentation, and demos coming soon.
 
----
+### 🔹 Jarvis Voice Assistant
+*   **Concept:** A custom, Android-based personal AI assistant.
+*   **Tech Stack:** Python, SpeechRecognition, pyttsx3.
 
-### 💻 `~/tech-stack` (Arsenal)
+### 🔹 Hackathons & Global Expeditions
+*   **NASA Space Apps Challenge** – Participant
+*   **Open Source Connect Global** – Open-source contributor
+*   **Team Code Titans** – Hackathon competitor
 
-```bash
-$ neofetch --skills
-```
+## 💻 Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,dart,html,css,tensorflow,scikitlearn,github,vscode,git,linux&theme=dark" alt="Tech Stack" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
----
+## 📊 GitHub Analytics
 
-### 📊 `~/telemetry` (System_Diagnostics)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshh025&show_icons=true&title_color=00FF66&text_color=ffffff&icon_color=00FF66&bg_color=0D1117&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshh025&theme=dark&hide_border=true&title_color=00FF66&text_color=ffffff&icon_color=00FF66&sideNums=00FF66&sideLabels=ffffff&ring=00FF66&fire=00FF66&currStreakLabel=ffffff&currStreakNum=00FF66" alt="Streak" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshh025&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshh025&theme=transparent&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshh025&layout=compact&title_color=00FF66&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 📡 `~/connect` (Ping_Me)
-
-<div align="center">
-
-```bash
-$ ping -c 1 adarsh.network
-64 bytes from adarsh: icmp_seq=1 ttl=64 time=0.042 ms
-```
-
-<a href="https://www.linkedin.com/in/adarsh-aher-a311a737b/">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/adarshh025">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
-</a>
-
-<br/><br/>
-<sub><i>"Building things that speak for themselves." 👾</i></sub>
-
-</div>
+> *"Every course completed is not the finish line — it’s another tool added to the toolbox."*
