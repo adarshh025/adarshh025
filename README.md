@@ -1,37 +1,23 @@
-<!-- 
-INSTRUCTIONS TO ADD THIS TO YOUR GITHUB:
-1. Go to https://github.com/new
-2. Create a new repository named exactly: adarshh025
-   (GitHub will show a special message saying you found a secret!)
-3. Make sure the repository is Public.
-4. Check the box "Add a README file".
-5. Click "Create repository".
-6. Edit the README.md file in that repository and paste all the code below this instruction block.
-7. Update the links (LinkedIn, Email, MNC name, etc.) with your actual details.
-8. Commit the changes and you're done!
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Adarsh%20Aher&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=61&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Adarsh%20Aher&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20Manager%20%40%20Tata%20Group&descAlignY=61&descAlign=62" alt="Header" />
 </div>
 
 <h3 align="center">Architecting Scalable Systems | Building High-Performance Teams</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/adarsh-aher-a311a737b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🏢 **Current Role:** Senior Software Engineer at [Your MNC Name].
-* 🚀 **Focus:** Designing cloud-native microservices, optimizing backend architectures, and implementing resilient CI/CD pipelines.
-* 🛠️ **Impact:** Spearheaded the modernization of legacy monolithic services into scalable Kubernetes deployments, reducing operational overhead.
-* 💡 **Leadership:** Actively mentoring engineering teams, defining best practices, and conducting rigorous architecture reviews.
-* 🌱 **Exploring:** Advanced System Design, Distributed Systems, and AI-driven development.
+* 🏢 **Current Role:** Quality Assurance Manager / Engineer at **Tata Group**.
+* 🎓 **Education:** DoMS, IIT Roorkee.
+* 📍 **Location:** Mumbai, Maharashtra.
+* 🚀 **Focus:** Designing cloud-native architectures, optimizing backend services, and implementing robust QA & CI/CD pipelines.
+* 💡 **Leadership:** Actively mentoring engineering teams, defining best practices, and driving quality assurance initiatives.
+* 🌱 **Exploring:** Advanced System Design, Automated Testing at Scale, and AI-driven development.
 
 ### 🛠️ Core Competencies & Tech Stack
 
@@ -43,12 +29,12 @@ INSTRUCTIONS TO ADD THIS TO YOUR GITHUB:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-**Backend & Frameworks**  
+**Quality Assurance & Testing**  
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 **Cloud, DevOps & Infrastructure**  
@@ -56,7 +42,7 @@ INSTRUCTIONS TO ADD THIS TO YOUR GITHUB:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 **Databases & Storage**  
@@ -85,5 +71,5 @@ INSTRUCTIONS TO ADD THIS TO YOUR GITHUB:
 ---
 
 <div align="center">
-  <i>"Simplicity is the soul of efficiency." – Austin Freeman</i>
+  <i>"Quality is not an act, it is a habit." – Aristotle</i>
 </div>
